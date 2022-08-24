@@ -1,0 +1,2 @@
+name= nikhil
+registration number=2345
